@@ -2,11 +2,9 @@
 #include "6-abs.c"
 #include <stdio.h>
 /**
- * add - adding it up
- * @a: first integer
- * @b: second integer
+ * print_to_98 - print from number n up to 98
+ * @n: starting integer
  *
- * Return: sum of both integers
  */
 void print_to_98(int n)
 {
