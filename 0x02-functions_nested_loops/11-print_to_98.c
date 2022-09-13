@@ -1,7 +1,13 @@
 #include "holberton.h"
 #include "6-abs.c"
 #include <stdio.h>
-
+/**
+ * add - adding it up
+ * @a: first integer
+ * @b: second integer
+ *
+ * Return: sum of both integers
+ */
 void print_to_98(int n)
 {
 	int i;
