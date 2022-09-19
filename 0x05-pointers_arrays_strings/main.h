@@ -27,4 +27,10 @@ void _puts(char *str);
  * @s: string parameter
  */
 void print_rev(char *s);
+/**
+ * _putchar - prints char c to screen
+ * @c: string char
+ * Return: 1 or 0
+ */
+int _putchar(char c);
 #endif
