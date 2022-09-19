@@ -33,4 +33,9 @@ void print_rev(char *s);
  * Return: 1 or 0
  */
 int _putchar(char c);
+/**
+ * rev_string - reverses string
+ * @s: string parameter
+ */
+void rev_string(char *s);
 #endif
