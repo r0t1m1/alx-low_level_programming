@@ -22,4 +22,9 @@ int _strlen(char *s);
  * @str: string parameter
  */
 void _puts(char *str);
+/**
+ * print_rev - reverse and print reversed string
+ * @s: string parameter
+ */
+void print_rev(char *s);
 #endif
